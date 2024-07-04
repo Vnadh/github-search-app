@@ -1,0 +1,2 @@
+# github-search-app
+ GitHub Search App This is a simple GitHub Search App built with React. It allows users to search for GitHub users and repositories using the GitHub API.  Features Search for GitHub users View user details including name, avatar, and repositories Search for GitHub repositories View repository details including name, description, and owner Getting Started These instructions will help you set up and run the project on your local machine for development and testing purposes.
